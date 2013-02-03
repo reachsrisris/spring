@@ -1,4 +1,4 @@
-package com.srisris.springmvc;
+package com.srisris.springmvc.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
